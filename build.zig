@@ -76,7 +76,6 @@ pub fn build(b: *std.Build) void {
         .name = "snappy",
         .root_module = mod,
     });
-    // lib.linkLibC();
     lib.linkLibCpp();
 
     lib.installConfigHeader(config_h);
