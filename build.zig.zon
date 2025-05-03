@@ -1,13 +1,13 @@
 .{
     .name = .snappy,
     .fingerprint = 0xcbfb5fb829b22ab4,
-    .version = "1.2.1",
+    .version = "1.2.2",
     .minimum_zig_version = "0.14.0",
 
     .dependencies = .{
         .upstream = .{
-            .url = "https://github.com/google/snappy/archive/refs/tags/1.2.1.tar.gz",
-            .hash = "N-V-__8AAFcZMwArbDq2D1UJn2PWkn7z3aN2C69WILlsrYu7",
+            .url = "https://github.com/google/snappy/archive/refs/tags/1.2.2.tar.gz",
+            .hash = "N-V-__8AAKIfMwDk1au912zZAJLGmqHl769-gDkJe6on4cq8",
         },
     },
 
